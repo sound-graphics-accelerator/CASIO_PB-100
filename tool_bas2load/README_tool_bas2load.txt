@@ -2,7 +2,7 @@ tool_bas2load
 PB-100 の BASIC テキストを、実機の LOAD で読み込める形式に変換するツールです。
 
 ■ 動作環境
-  Windows。tool_bas2load.exe だけで動きます。
+  Windows 11など(64Bit)。tool_bas2load.exe だけで動きます。
 
 ■ 使い方
   tool_bas2load 名前.bas              名前.load.txt を作成

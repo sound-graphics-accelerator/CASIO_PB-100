@@ -6,7 +6,7 @@ CASIO PB-100 向けのツールを公開しています。
 
 | ツール | 内容 |
 | --- | --- |
-| [tool_bas2load](tool_bas2load/) | BASIC テキストを実機の LOAD 形式に変換 |
+| [tool_bas2load](tool_bas2load/) | BASIC テキストを実機の LOAD 形式に変換(Windows11など 64bit) |
 
 ダウンロードは [Releases](../../releases) から。
 
