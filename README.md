@@ -1,15 +1,15 @@
 # Sound & Graphics Accelerator
 
-CASIO PB-100 向けのツールを公開しています。
+I have released tools for the CASIO PB-100.
 
 ## ツール一覧
 
-| ツール | 内容 |
+| Tool | Content |
 | --- | --- |
-| tool_bas2load | BASIC テキストを実機の LOAD 形式に変換(Windows11など 64bit) |
+| tool_bas2load | Converts BASIC text into the LOAD format used by the actual hardware (for 64-bit systems such as Windows 11) |
 
-## ご注意
+## Notes
 
-- 動作確認は手持ちの PB-100 (無印) でのみ行っています。
-- 無保証です。ご利用は自己責任でお願いします。
-- 正式なサポートを行うかは未定です。
+- Testing has been performed only on my own PB-100 (base model).
+- Provided "as is" without any warranty; use at your own risk.
+- It is not yet decided whether official support will be provided.
