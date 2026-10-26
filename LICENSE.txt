@@ -1,0 +1,79 @@
+﻿利用規約
+
+制定 2026-10-26
+
+Copyright (C) 2026 Arunaizoku
+https://github.com/sound-graphics-accelerator
+
+この規約で「本ソフトウェア」とは、作者が上記の場所などで公開している
+すべてのプログラムと、その付属のファイル (データ、説明書など) をいいます。
+過去の版と、これから公開するものも含みます。
+規約を付ける前に公開した版があり、後からのお願いになって申し訳ありませんが、
+それらの過去の版にも、この規約が同じように当てはまります。
+
+1. 本ソフトウェアは、個人が無料で使うことができます。
+2. 次のことを禁止します。
+   (1) 逆コンパイル、逆アセンブル、その他の方法で、プログラムの中身
+       (コード、データ、表) を取り出したり、調べたりすること。
+   (2) 実行中のメモリや通信を読み取る道具を使って、プログラムの中身を調べること。
+   (3) 動かして挙動を観察・測定するなどの方法で、プログラムの中身や
+       仕組みを調べること。
+   (4) プログラムを書き換えること。書き換えたものを配ること。
+   (5) 一式がそろっていない形で配ること (一部のファイルだけを配る、
+       ファイルを抜く・差し替える、など)。ファイルの不足等による
+       動作不良を防ぐためです。
+   (6) 本ソフトウェア自体に値段を付けて売ること (作者の許可がある場合を除く)。
+3. 無料での再配布は自由です。配布されたときのファイル一式を、
+   この規約のファイルも含めて、そのまま配ってください。
+   無料であれば、どこに掲載してもかまいません。
+   自分の作品のファイル (ゲームのデータや、その作品のために作った
+   プログラムなど) を足して、一緒に配るのはかまいません。
+   動作を確かめた版の一式を選んで同梱できます (最新版でなくてもかまいません)。
+   雑誌・書籍・電子書籍・CD-ROM・ダウンロード販売などのフリーソフト集に
+   収録して販売するのはかまいません (その代金は書籍やメディア等の代金で、
+   本ソフトウェアの代金ではないため)。
+4. 本ソフトウェアで作った作品の公開と、本ソフトウェアの紹介は自由です。
+5. 本ソフトウェアは現状のまま提供し、動作を保証しません。使うかどうかは
+   利用者の判断で、自己責任で使ってください。本ソフトウェアを使ったこと、
+   または使えなかったことで生じたいかなる損害や不利益 (データの消失、PC や
+   PB-100 などの機器の故障、作業の中断などを含みます) についても、作者は
+   責任を負いません。作者は、質問への回答、不具合の修正、更新を続ける
+   義務を負いません。
+6. 本ソフトウェアを使った時点で、この規約に同意したものとします。
+
+----------------------------------------------------------------
+Terms of Use
+
+Effective 2026-10-26
+
+In these terms, "the Software" means all programs the author publishes
+(at the location above and elsewhere), with their accompanying files
+(data, manuals, etc.), including past versions and future releases.
+We apologize for adding these terms after some versions were already
+released, but these terms apply equally to those past versions as well.
+
+1. The Software is free for personal use.
+2. You may not: decompile, disassemble or otherwise extract or examine its
+   code, data or tables; inspect its memory or traffic with tools
+   for that purpose; examine its internals or mechanisms by observing or
+   measuring its behaviour; modify it or distribute modified copies;
+   distribute an incomplete set (only some files, files removed or
+   replaced), to prevent malfunctions caused by missing files; sell the Software itself for a fee
+   without the author's permission.
+3. Redistribution free of charge is welcome, anywhere, as long as you
+   distribute the complete set of files as released, unchanged, including
+   this file.
+   You may add files of your own works (game data, programs written for
+   that work, etc.) and distribute them together, with the complete set
+   of whichever released version you tested (it need not be the latest).
+   Including it in a free-software collection sold as a magazine, book,
+   e-book, CD-ROM, download, etc. is allowed (the price is for the book,
+   media, etc., not for the Software).
+4. Publishing works made with the Software and introducing the Software
+   are free.
+5. Provided as is, without warranty of any kind. Use it at your own risk.
+   The author is not liable for any damage or loss arising from the use of,
+   or inability to use, the Software (including lost data, damage to a PC,
+   PB-100 or other equipment, and interrupted work). The author has no
+   obligation to answer questions, fix bugs or provide updates.
+6. By using any of the Software you agree to these terms.
